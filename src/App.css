@@ -1,0 +1,22 @@
+.App-Button {
+  font-size: larger;
+}
+
+h1 {
+  margin: 0px;
+}
+
+.App-Background {
+  padding-left: 15px;
+  height: 100vh;
+}
+
+.App-Day {
+  background-color: rgb(195, 205, 50);
+  color: black;
+}
+
+.App-Night {
+  background-color: #1b1b1b;
+  color: wheat;
+}
