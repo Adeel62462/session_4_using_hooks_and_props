@@ -10,7 +10,7 @@ function App() {
   return (
     <div className={`App-Background ${isMorning? "App-Day" : "App-Night"}`} >
       <h1>
-        Good {isMorning ? "Morning" : "Night"}
+        Good  {isMorning ? "Morning" : "Night"}
       </h1>
       <Message number={counter}/>
       <br />
